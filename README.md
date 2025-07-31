@@ -8,7 +8,7 @@
 ## Description:
 Tasks and analysis of the qualifying round of the [International Cybersecurity Championship](https://cybermir.ru/cyberchampionship/)
 
-Organized by [AO Solar Security](https://rt-solar.ru/).
+Organized by [Solar Security JSC](https://rt-solar.ru/).
 
 ## Задачи/Tasks
 | №  | Name                              | Category | Score|            Flags                   |
