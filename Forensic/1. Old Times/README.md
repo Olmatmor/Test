@@ -4,6 +4,8 @@
 
 **Формат флага/Flag format**: solar{}
 
+**Файлы/Files**: [old.zip](old.zip)
+
 **Описание**: У меня был крутой скриншот, но с ним, что – то стряслось...
 
 **Description**: I had a cool screenshot, but something happened to it...

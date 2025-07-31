@@ -4,6 +4,8 @@
 
 **Формат флага/Flag format**: solar{}
 
+**Файлы/Files**: [strange.zip](strange.zip)
+
 **Описание**: В этой картинке есть что-то странное. Можете догадаться?
 
 **Description**: There's something weird about this picture. Can you figure it out?

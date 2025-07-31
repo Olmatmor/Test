@@ -4,6 +4,8 @@
 
 **Формат флага/Flag format**: solar{}
 
+**Файлы/Files**: [cipher.zip](cipher.zip)
+
 **Описание**: Вы получили анонимное письмо, содержащее только одно вложение. Сможете ли вы решить его?
 
 **Description**: You received an anonymous letter containing just one attach. Can you solve it?

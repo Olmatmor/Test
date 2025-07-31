@@ -4,6 +4,8 @@
 
 **Формат флага/Flag format**: solar{}
 
+**Файлы/Files**: [mask.zip](mask.zip)
+
 **Описание**: Мы зашифровали флаг при помощи нашей кастомной маскировки, основанной на побитовых XOR и циклических сдвигах. Все просто! Никакой AES, никакого RSA. Только легкий битовый хаос. Если ты умеешь распутывать XOR-овую паутину, флаг твой.
 
 **Description**: We encrypted the flag using our custom obfuscation based on bitwise XORs and cyclic chifts. It`s simple! No AES, no RSA. Just a little bit chaos. If you can untangle the XOR web, the flag is yours.

@@ -4,6 +4,8 @@
 
 **Формат флага/Flag format**: solar{}
 
+**Файлы/Files**: [old.zip](old.zip)
+
 **Описание**: Сотрудник скопировал некоторые документы на USB-флешку перед уходом. Нам удалось сделать дамп этой флешки, но он удалил важные файлы. У нас есть только файл образа usb_image.dd. Попробуйте восстановить хотя бы один удаленный файл - флаг может быть еще там.
 
 **Description**: An employee copied some documents to a USB flash drive before leaving. We managed to make a dump of this flash drive, but he deleted all the important files.

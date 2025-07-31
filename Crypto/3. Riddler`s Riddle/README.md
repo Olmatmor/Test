@@ -4,6 +4,8 @@
 
 **Формат флага/Flag format**: solar{}
 
+**Файлы/Files**: [task.zip](task.zip)
+
 **Описание**: Ах, добро пожаловать, умник! Игра началась, и только те, у кого острый ум, смогут победить. В этом испытании скрыты замаскированные подсказки и тайны - загадки, которые дразнят секреты открытых шифров и ключей, которые их открывают. Ты готов сыграть в мою маленькую игру?
 
 **Description**: Ah, welcome, clever one! The game is afoot, and only those with a sharp mind shall preveil. Hidden within this challenge are clies cloaked and mistery - riddles that tease the secrets of the open cipheres and the keys that unlock them. Are you ready to play my little game?

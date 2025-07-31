@@ -4,6 +4,8 @@
 
 **Формат флага/Flag format**: solar{}
 
+**Файлы/Files**: [anomaly.zip](anomaly.zip)
+
 **Описание**: Агент, использовавший псевдоним "Хронос", отправлял зашифрованные сообщения через временные узлы. Его шифр невозможно было взломать обычными методами - все из-за нестабильного генератора, основанного на времени отправки.
 
 **Description**: An agent using the pseudonym "Chronos" sent encrypted messages via time nodes. His cipher was impossible to crack by conventional methods - all because of an unstable generator based on the time of sending.

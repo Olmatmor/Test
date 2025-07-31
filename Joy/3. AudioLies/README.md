@@ -4,6 +4,8 @@
 
 **Формат флага/Flag format**: solar{}
 
+**Файлы/Files**: [task.zip](task.zip)
+
 **Описание**: Запись выглядит пустой. Но если вы умеете слушать, вы можете услышать больше, чем тишину...
 
 **Description**: The recording looks empty. But if you know how to listen, you might hear more than silence...

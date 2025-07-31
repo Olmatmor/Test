@@ -4,6 +4,8 @@
 
 **Формат флага/Flag format**: solar{}
 
+**Файлы/Files**: [task.zip](task.zip)
+
 **Описание**: Мой друг написал мне странное сообщение. Я все не могу понять, где же этот секрет?! Поможешь?
 
 **Description**: My friend wrote me a strange message. I still can't understand, where is this secret?! Will you help?
