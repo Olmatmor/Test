@@ -5,21 +5,26 @@
 **Формат флага/Flag format**: solar{}
 
 **Файлы/Files**: [cipher.zip](cipher.zip)
+---
 
-**Описание**: Вы получили анонимное письмо, содержащее только одно вложение. Сможете ли вы решить его?
+**Описание**:
+---
+ Вы получили анонимное письмо, содержащее только одно вложение. Сможете ли вы решить его?
 
-**Description**: You received an anonymous letter containing just one attach. Can you solve it?
+**Description**:
+---
+ You received an anonymous letter containing just one attach. Can you solve it?
 
 **Идея задачи**:
-
+---
 Простенькая задача на XOR - в исходном сообщении содержится ключ.
 
 **Problem idea**:
-
+---
 A simple XOR problem - the original message contains the key.
 
 **Решение**:
-
+---
 Во вложении содержится строка:
 
 ```
@@ -56,7 +61,7 @@ solar{Xo4_1s_3aSy_aS_y04_4n0w}
 
 
 **Solution**:
-
+---
 The attachment contains the string:
 
 ```

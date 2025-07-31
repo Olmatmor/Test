@@ -5,17 +5,19 @@
 **Формат флага/Flag format**: solar{}
 
 **Файлы/Files**: [warm.zip](warm.zip)
-
+---
 **Описание**:
+---
 Ты — инженер по безопасности в команде AppSec.  
 Разработчики прислали тебе клиентскую часть тестового веб-прототипа. Бэкенд пока не готов, но они уверяют, что «логика логина реализована корректно и безопасно» — и попросили сделать быструю проверку.
 
 **Description**: 
+---
 You are a security engineer on the AppSec team.
 The developers have sent you the client side of a test web prototype. The backend is not ready yet, but they assure you that "the login logic is implemented correctly and securely" - and asked you to do a quick check.
 
 **Решение**:
-
+---
 >[!WARNING] 
 >Здесь были две ошибки со стороны разработки в части:
 
@@ -32,7 +34,7 @@ The developers have sent you the client side of a test web prototype. The backen
 Флаг: solar{client_side_logic_revealed}
 
 **Solution**:
-
+---
 >[!WARNING]
 >There were two errors on the development side in the part:
 

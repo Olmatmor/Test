@@ -5,21 +5,26 @@
 **Формат флага/Flag format**: solar{}
 
 **Файлы/Files**: [task.zip](task.zip)
+---
 
-**Описание**: Ах, добро пожаловать, умник! Игра началась, и только те, у кого острый ум, смогут победить. В этом испытании скрыты замаскированные подсказки и тайны - загадки, которые дразнят секреты открытых шифров и ключей, которые их открывают. Ты готов сыграть в мою маленькую игру?
+**Описание**:
+---
+ Ах, добро пожаловать, умник! Игра началась, и только те, у кого острый ум, смогут победить. В этом испытании скрыты замаскированные подсказки и тайны - загадки, которые дразнят секреты открытых шифров и ключей, которые их открывают. Ты готов сыграть в мою маленькую игру?
 
-**Description**: Ah, welcome, clever one! The game is afoot, and only those with a sharp mind shall preveil. Hidden within this challenge are clies cloaked and mistery - riddles that tease the secrets of the open cipheres and the keys that unlock them. Are you ready to play my little game?
+**Description**:
+---
+Ah, welcome, clever one! The game is afoot, and only those with a sharp mind shall preveil. Hidden within this challenge are clies cloaked and mistery - riddles that tease the secrets of the open cipheres and the keys that unlock them. Are you ready to play my little game?
 
 **Идея задачи**:
-
+---
 Кроме зашифрованного текста нам даны две загадки, в которых скрыты наименования шифров и ключи к данным шифрам. В остальном - здесь используется два известных шифра и все.
 
 **Problem idea**:
-
+---
 In addition to the encrypted text, we are given two riddles, in which the names of the ciphers and the keys to these ciphers are hidden. Otherwise, two known ciphers are used here and that's it.
 
 **Решение**:
-
+---
 Первая загадка:
 
 *In ancient scrolls, my trace is found,**
@@ -102,7 +107,7 @@ solar{3ncRypt10n_a4d_r1DDl3_1s_f4n}
 
 
 **Solution**:
-
+---
 First riddle:
 
 *In ancient scrolls, my trace is found,**

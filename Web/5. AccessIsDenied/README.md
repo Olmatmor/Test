@@ -5,8 +5,9 @@
 **Формат флага/Flag format**: solar{}
 
 **Файлы/Files**: [access.zip](access.zip)
-
+---
 **Описание**:
+---
 «Безопасный» портал администратора был развернут самоуверенными стажерами JSOC. 
 
 Он включает вход в систему, сеансы, файлы cookie и даже защиту от перебора. 
@@ -26,6 +27,7 @@
 Пожалуйста, отправьте все коды CWE в том порядке, в котором вы их используете.
 
 **Description**: 
+---
 The "secure" admin portal was deployed by overconfident JSOC interns.
 
 It includes login, sessions, cookies, and even brute force protection.
@@ -45,13 +47,13 @@ Flag format: solar{CWE-XX,CWE-YY,CWE-ZZ}
 Please submit all CWE codes in the order you use them.
 
 **Решение**:
-
+---
 Необходимо было либо вручную, либо при помощи специализированных инструментов проанализировать исходный код, найти уязвимость и указать в виде флага CWE данной уязвимости.
 
 Флаг: solar{CWE-502,CWE-269,CWE-22} (Deserialization, Improper Privilege Management, Path Traversal)
 
 **Solution**:
-
+---
 It was necessary to either manually or with the help of specialized tools analyze the source code, find the vulnerability and indicate it as a CWE flag for this vulnerability.
 
 Flag: solar{CWE-502,CWE-269,CWE-22} (Deserialization, Improper Privilege Management, Path Traversal)

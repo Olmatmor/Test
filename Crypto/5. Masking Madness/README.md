@@ -5,13 +5,17 @@
 **Формат флага/Flag format**: solar{}
 
 **Файлы/Files**: [mask.zip](mask.zip)
+---
+**Описание**:
+---
+Мы зашифровали флаг при помощи нашей кастомной маскировки, основанной на побитовых XOR и циклических сдвигах. Все просто! Никакой AES, никакого RSA. Только легкий битовый хаос. Если ты умеешь распутывать XOR-овую паутину, флаг твой.
 
-**Описание**: Мы зашифровали флаг при помощи нашей кастомной маскировки, основанной на побитовых XOR и циклических сдвигах. Все просто! Никакой AES, никакого RSA. Только легкий битовый хаос. Если ты умеешь распутывать XOR-овую паутину, флаг твой.
-
-**Description**: We encrypted the flag using our custom obfuscation based on bitwise XORs and cyclic chifts. It`s simple! No AES, no RSA. Just a little bit chaos. If you can untangle the XOR web, the flag is yours.
+**Description**:
+---
+We encrypted the flag using our custom obfuscation based on bitwise XORs and cyclic chifts. It`s simple! No AES, no RSA. Just a little bit chaos. If you can untangle the XOR web, the flag is yours.
 
 **Идея задачи**:
-
+---
 Флаг зашифрован кастомной функцией вида:
 
 ```
@@ -25,7 +29,7 @@ for b in plaintext:
 ```
 
 **Problem idea**:
-
+---
 The flag is encrypted with a custom function of the form:
 
 ```
@@ -39,7 +43,7 @@ for b in plaintext:
 ```
 
 **Решение**:
-
+---
 Из описания можно сделать предположение, что:
 
 - каждый байт зашифрован с помощью XOR с какой-то маской;
@@ -116,7 +120,7 @@ _______________________________________
 ```
 
 **Solution**:
-
+---
 From the description we can assume that:
 
 - each byte is encrypted using XOR with some mask;

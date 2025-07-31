@@ -43,9 +43,9 @@ Organized by [Solar Security JSC](https://rt-solar.ru/).
 | 24 | [The Secret of the Invisible Clown](Stegano/4.%20The%20Secret%20of%20the%20Invisible%20Clown/) | Stegano  | 400 | solar{h1dd3N_l@y3r$_3nc0d3d_D@ta}   |
 | 25 | [StrangePic](Stegano/5.%20StrangePic/)                        | Stegano  | 500 | solar{st3gan0_1s_v3ry_s1mpl3}       |
 | -  | -------------------------------|-------|------|----------------------------------------|
-| 26 | [Warmup](WEB/1.%20Warmup/)                            | Web      | 100 | solar{client_side_logic_revealed}   |
-| 27 | [YetAnotherLoginForm](WEB/2.%20YetAnotherLoginForm/)               | Web      | 200 | solar{CWE-89}                       |
-| 28 | [CoolLogin2000](WEB/3.%20CoolLogin2000/)                     | Web      | 300 | solar{CWE-79,CWE-384}               |
-| 29 | [CoolEventRegistrationForm](WEB/4.%20CoolEventRegistrationForm/)         | Web      | 400 | solar{CWE-1333,CWE-1336}            |
-| 30 | [AccessIsDenied](WEB/5.%20AccessIsDenied/)                    | Web      | 500 | solar{CWE-502,CWE-269,CWE-22}       |
+| 26 | [Warmup](Web/1.%20Warmup/)                            | Web      | 100 | solar{client_side_logic_revealed}   |
+| 27 | [YetAnotherLoginForm](Web/2.%20YetAnotherLoginForm/)               | Web      | 200 | solar{CWE-89}                       |
+| 28 | [CoolLogin2000](Web/3.%20CoolLogin2000/)                     | Web      | 300 | solar{CWE-79,CWE-384}               |
+| 29 | [CoolEventRegistrationForm](Web/4.%20CoolEventRegistrationForm/)         | Web      | 400 | solar{CWE-1333,CWE-1336}            |
+| 30 | [AccessIsDenied](Web/5.%20AccessIsDenied/)                    | Web      | 500 | solar{CWE-502,CWE-269,CWE-22}       |
 

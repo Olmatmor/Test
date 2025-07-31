@@ -5,19 +5,21 @@
 **Формат флага/Flag format**: solar{}
 
 **Файлы/Files**: [phantom.zip](phantom.zip)
-
+---
 **Описание**: 
+---
 Подозрительная активность была обнаружена на рабочей станции сотрудника company.sol.
 Трафик выглядит как обычный DNS и HTTP, но... слишком много аномалий.
 В отчете об инциденте указано: "данные могли передаваться по сети скрытым образом".
 
 **Description**: 
+---
 Suspicious activity was detected from a company.sol employee's workstation.
 The traffic appears to be normal DNS and HTTP, but... too many anomalies.
 The incident report states: "data may have been transmitted over the network in a covert manner."
 
 **Решение**:
-
+---
 Нужно понять аномалии в трафике:
 1.	Много DNS-запросов на поддомены типа (s.company.sol, x.company.sol...)
 2.	Есть пакеты на 10.10.10.10. без payload'а на TCP.window, который сильно больше обычного
@@ -84,7 +86,7 @@ print("IP Options part:", part3)
 Собираем флаг вместе и получаем: solar{F0ll0w_th3_DN3_R@bbit}
 
 **Solution**:
-
+---
 You need to understand the anomalies in the traffic:
 1. Many DNS requests for subdomains like (s.company.sol, x.company.sol...)
 2. There are packets for 10.10.10.10. without payload on TCP.window, which is much larger than usual

@@ -5,17 +5,19 @@
 **Формат флага/Flag format**: solar{}
 
 **Файлы/Files**: [conf.zip](conf.zip)
-
+---
 **Описание**: 
+---
 В цифровом цирке города Штегбург творится что-то странное... Легендарный клоун Бибо исчез во время своего фирменного трюка - «Исчезновение в картине».
 Перед тем, как испариться, он успел прошептать: «Тот, кто узнает мои секреты, получит не только мой нос, но и ключ от всех гримерок!»
 
 **Description**: 
+---
 Something strange is happening in the digital circus of the town of Stegburg... The legendary clown Bibo disappeared during his signature trick - "Disappearing into the picture".
 Before evaporating, he managed to whisper: "Whoever finds my secrets will get not only my nose, but also the key to all the dressing rooms!"
 
 **Решение**:
-
+---
 Флаг разбит на 4 части.
 
 Первая часть в картинке (lsb-преобразование) (*solar{h1dd3N*)
@@ -46,7 +48,7 @@ endobj
 Флаг: solar{h1dd3N_l@y3r$_3nc0d3d_D@ta}
 
 **Solution**:
-
+---
 The flag is divided into 4 parts.
 
 The first part is in the picture (lsb-transformation) (*solar{h1dd3N*)

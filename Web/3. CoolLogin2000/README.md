@@ -5,8 +5,9 @@
 **Формат флага/Flag format**: solar{}
 
 **Файлы/Files**: [coollogin.zip](coollogin.zip)
-
+---
 **Описание**:
+---
 Наша «передовая» система входа была написана стажерами JSOC, которые клянутся, что ее невозможно взломать. 
 Мы предлагаем вам взглянуть поближе! 
 
@@ -22,7 +23,8 @@
 
 Пожалуйста, отправьте оба кода CWE в том порядке, в котором вы их используете.
 
-**Description**: 
+**Description**:
+--- 
 Our "cutting edge" login system was written by JSOC interns who swear it's unhackable.
 
 We invite you to take a closer look!
@@ -40,13 +42,13 @@ Flag format: solar{CWE-XX,CWE-YY}
 Please submit both CWE codes in the order you use them.
 
 **Решение**:
-
+---
 Необходимо было либо вручную, либо при помощи специализированных инструментов проанализировать исходный код, найти уязвимость и указать в виде флага CWE данной уязвимости.
 
 Флаг: solar{CWE-79,CWE-384} (XSS, Session Fixation)
 
 **Solution**:
-
+---
 It was necessary to either manually or with the help of specialized tools analyze the source code, find the vulnerability and indicate it as a CWE flag for this vulnerability.
 
 Flag: solar{CWE-79,CWE-384} (XSS, Session Fixation)

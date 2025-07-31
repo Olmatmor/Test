@@ -5,20 +5,28 @@
 **Формат флага/Flag format**: solar{}
 
 **Файлы/Files**: [task.zip](task.zip)
+---
 
-**Описание**: Мой друг написал мне странное сообщение. Я все не могу понять, где же этот секрет?! Поможешь?
+**Описание**:
+---
+ Мой друг написал мне странное сообщение. Я все не могу понять, где же этот секрет?! Поможешь?
 
-**Description**: My friend wrote me a strange message. I still can't understand, where is this secret?! Will you help?
+**Description**:
+---
+ My friend wrote me a strange message. I still can't understand, where is this secret?! Will you help?
 
 **Идея задачи**:
+---
 
 Идея задачи заключается в том, что представленный в сообщении смайлик — это контейнер, в котором скрыт флаг. Внутри смайлика помещается до 3000 символов из-за кодировки Unicode.
 
 **Problem idea**:
+---
 
 The idea of the problem is that the emoticon presented in the message is a container in which the flag is hidden. Up to 3000 characters can fit inside the emoticon due to Unicode encoding.
 
 **Решение**:
+---
 
 Необходимо проанализировать сообщение и понять, что что-то не так с эмодзи. При помощи разных инструментов (пример: https://emoji.paulbutler.org) можно раздекодить и получить сообщение в двоичной кодировке:
 
@@ -30,7 +38,9 @@ The idea of the problem is that the emoticon presented in the message is a conta
 
 solar{1_l0v3_un1c0d3_s00_m4c4}
 
+
 **Solution**:
+---
 
 You need to analyze the message and understand that something is wrong with the emoji. Using different tools (example: https://emoji.paulbutler.org) you can decode and get the message in binary encoding:
 

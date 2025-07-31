@@ -5,21 +5,23 @@
 **Формат флага/Flag format**: solar{}
 
 **Файлы/Files**: [travel.zip](travel.zip)
-
+---
 **Описание**: 
+---
 Путешественник прошел через десять солнц.
 Каждое оставило след на его глазу.
 Но чтобы увидеть истину, нужно смотреть не на то, что видит он —
 ... а на то, что он должен был увидеть.
 
-**Description**: 
+**Description**:
+--- 
 The traveler went through ten suns.
 Each left a mark on his eye.
 But to see the truth, you must not look at what he sees —
 ...but what he was meant to see.
 
 **Решение**:
-
+---
 Участнику дается несколько файлов, в том числе и генератор .gif файлов, нужно понять как достать из данных файлов флаг.
 
 Необходимо проанализировать файлы, посмотреть как работает генератор, подумать нужен ли он вообще, нужен ли исходный .gif файл вообще или нет, после чего более пристально обратить внимание на pallete_blob, который вроде как в явном виде нигде не используется, но является структурированным.
@@ -66,7 +68,7 @@ print(flag)
 Флаг: solar{p4l3tt3s_ar3_tr4cks}
 
 **Solution**:
-
+---
 The participant is given several files, including a .gif file generator, and needs to understand how to extract a flag from these files.
 
 You need to analyze the files, see how the generator works, think about whether it is needed at all, whether the original .gif file is needed at all or not, and then pay closer attention to the pallete_blob, which seems to be not used anywhere explicitly, but is structured.

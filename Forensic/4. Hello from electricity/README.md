@@ -5,20 +5,22 @@
 **Формат флага/Flag format**: solar{}
 
 **Файлы/Files**: [bzz.zip](bzz.zip)
+---
 
 **Описание**:
+---
 На электроподстанции зафиксирована странная активность. 
 Один из операторов явно передал в сигнале нечто большее, чем просто напряжение...
 Разгадай импульсный привет — и найди, что скрывается в волнах!
 
-
 **Description**: 
+---
 Strange activity has been detected at the electrical substation.
 One of the operators has clearly transmitted more than just voltage in the signal...
 Unravel the pulse greeting - and find what's hidden in the waves!
 
 **Решение**:
-
+---
 Из дампа трафика необходимо восстановить два файла:
 
 COMTRADE_faultan.cfg и COMTRADE_faultan.dat. 
@@ -31,7 +33,7 @@ COMTRADE_faultan.cfg и COMTRADE_faultan.dat.
 Флаг: solar{mms_h0p3_1337}
 
 **Solution**:
-
+---
 From the traffic dump, two files need to be restored:
 
 COMTRADE_faultan.cfg and COMTRADE_faultan.dat.

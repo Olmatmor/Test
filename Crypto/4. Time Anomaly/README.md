@@ -5,21 +5,25 @@
 **Формат флага/Flag format**: solar{}
 
 **Файлы/Files**: [anomaly.zip](anomaly.zip)
+---
+**Описание**:
+---
+Агент, использовавший псевдоним "Хронос", отправлял зашифрованные сообщения через временные узлы. Его шифр невозможно было взломать обычными методами - все из-за нестабильного генератора, основанного на времени отправки.
 
-**Описание**: Агент, использовавший псевдоним "Хронос", отправлял зашифрованные сообщения через временные узлы. Его шифр невозможно было взломать обычными методами - все из-за нестабильного генератора, основанного на времени отправки.
-
-**Description**: An agent using the pseudonym "Chronos" sent encrypted messages via time nodes. His cipher was impossible to crack by conventional methods - all because of an unstable generator based on the time of sending.
+**Description**:
+---
+An agent using the pseudonym "Chronos" sent encrypted messages via time nodes. His cipher was impossible to crack by conventional methods - all because of an unstable generator based on the time of sending.
 
 **Идея задачи**:
-
+---
 Использование старой версии MSVC rand (значения 0x343FD + 0x269EC3) в шифре sandclock.
 
 **Problem idea**:
-
+---
 Using an old version of MSVC rand (values 0x343FD + 0x269EC3) in the sandclock cipher.
 
 **Решение**:
-
+---
 Можно внимательно проанализировать перехваченное сообщение:
 ```
 ===== INTERCEPTED MESSAGE =====
@@ -72,7 +76,7 @@ print(text.decode())
 Флаг: solar{t1m3_p0W3R3d_str3am_x0r}
 
 **Solution**:
-
+---
 You can carefully analyze the intercepted message:
 ```
 ===== INTERCEPTED MESSAGE =====
