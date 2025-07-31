@@ -4,7 +4,7 @@
 
 **Формат флага/Flag format**: solar{}
 
-**Файлы/Files**: [old.zip](old.zip)
+**Файлы/Files**: [usb_image.dd](usb_image.dd)
 ---
 **Описание**:
 ---
